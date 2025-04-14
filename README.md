@@ -14,7 +14,7 @@
   <a href="https://mail.google.com/mail/daleksis1999" target="_blank">
     <img src="https://w7.pngwing.com/pngs/236/527/png-transparent-computer-icons-gmail-email-gratis-gmail-computer-network-angle-text.png" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/Lexaretto" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
