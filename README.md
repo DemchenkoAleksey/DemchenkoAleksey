@@ -43,6 +43,11 @@
     <td>Яндекс Практикум</td>
     <td>Специалист по Data Science</td>
   <tr>
+    <td>2024</td>
+    <td>Яндекс Практикум</td>
+    <td>Математика для анализа данных</td>
+    <td>Сертификат <a href = "https://github.com/Lexaretto/Lexaretto/blob/main/Свидетельство_RU_Демченко_2025-10534-002.pdf">RUS</a> / <a href = "https://github.com/Lexaretto/Lexaretto/blob/main/Сertificate_ENG_Демченко_2025-10534-002.pdf">EN</a></td>
+  <tr>
     <td>2018-2023</td>
     <td>Московский авиационный институт</td>
     <td>Проектирование авиационных и ракетных двигателей. Теория и расчет воздушно-реактивных двигателей</td>
