@@ -27,14 +27,6 @@
 
 <p align="left">Я начинающий аналитиик Data-Science. В прошлом работал инженером-конструктором в компании производящей самолет SSJ-100. На данный момент сильно заинтересовался аналитикой данных и машинным обучением, планирую дальше развиваться в данной сфере.<br>- ⚡ Являюсь студентом на курсе специалист Data-Science Яндекс Практикум.</p>
 
-###
-
-
-### Содержание
-[ •  Резюме](https://github.com/albert-stepanyan#%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5)<br>
-[ •  Обучение](https://github.com/albert-stepanyan#%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)<br>
-[ •  Учебные проекты](https://github.com/albert-stepanyan#%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)<br>
-
 ### Резюме
 - Специалист по Data Science [hh.ru](https://hh.ru/resume/3ddab569ff0cb808b70039ed1f643633677645) / 
 <a href = "https://github.com/albert-stepanyan/albert-stepanyan/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20Data%20Science%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%20%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8F%D0%BD%20%D0%BE%D1%82%2001-04-2024%2009-20.pdf">pdf</a><br><br>
