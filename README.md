@@ -29,7 +29,7 @@
 
 ### Резюме
 - Специалист по Data Science [hh.ru](https://volgograd.hh.ru/resume/18c7f1d0ff0ebcee660039ed1f414e42395050) / 
-<a href = "https://github.com/albert-stepanyan/albert-stepany5543an/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20Data%20Science%20%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%20%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%8F%D0%BD%20%D0%BE%D1%82%2001-04-2024%2009-20.pdf">pdf</a><br><br>
+<a href = https://github.com/Lexaretto/Lexaretto/blob/main/resume.pdf>pdf</a><br><br>
 
 <h3 align="left">🛠 Технологии:</h3>
 
