@@ -42,6 +42,7 @@
     <td>2024-2025</td>
     <td>Яндекс Практикум</td>
     <td>Специалист по Data Science</td>
+    <td>Сертификат <a href = (https://github.com/DemchenkoAleksey/DemchenkoAleksey/blob/main/Диплом_RU_Демченко_2025-11000-017.pdf)>RUS</a> / <a href = (https://github.com/DemchenkoAleksey/DemchenkoAleksey/blob/main/Diploma_ENG_Демченко_2025-11000-017.pdf)>EN</a></td>
   <tr>
     <td>2024</td>
     <td>Яндекс Практикум</td>
